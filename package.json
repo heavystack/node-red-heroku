@@ -8,6 +8,6 @@
         "feedparser":"~0.19.2",
         "redis":"~0.10.1",
         "node-red": "1.0.3",
-        "node-red-contrib-line-messaging-api":"0.0.16"
+        "node-red-contrib-line-messaging-api":"git+ssh://git@github.com/wamisnet/node-red-contrib-line-messaging-api.git"
     }
 }
